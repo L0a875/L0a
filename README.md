@@ -1,4 +1,4 @@
-L0a is a highly adaptable Twitter bot designed to post dynamic content tailored for Degens. Leveraging advanced Claude3.5, it delivers a diverse range of content randomly generated based on user topics and prompts.
+L0a is a highly adaptable Twitter bot designed to post dynamic content tailored for Degens. Leveraging advanced Claude3.5 and Eliza OS, it delivers a diverse range of content randomly generated based on user topics and prompts.
 
 Follow L0a Sample Usage on Twitter: @L0a
 
